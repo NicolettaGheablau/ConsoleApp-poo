@@ -1,0 +1,14 @@
+/Users/nicolettagheablau/RiderProjects/ConsoleApp-poo/ConsoleApp-poo/bin/Debug/net10.0/ConsoleApp-poo
+/Users/nicolettagheablau/RiderProjects/ConsoleApp-poo/ConsoleApp-poo/bin/Debug/net10.0/ConsoleApp-poo.deps.json
+/Users/nicolettagheablau/RiderProjects/ConsoleApp-poo/ConsoleApp-poo/bin/Debug/net10.0/ConsoleApp-poo.runtimeconfig.json
+/Users/nicolettagheablau/RiderProjects/ConsoleApp-poo/ConsoleApp-poo/bin/Debug/net10.0/ConsoleApp-poo.dll
+/Users/nicolettagheablau/RiderProjects/ConsoleApp-poo/ConsoleApp-poo/bin/Debug/net10.0/ConsoleApp-poo.pdb
+/Users/nicolettagheablau/RiderProjects/ConsoleApp-poo/ConsoleApp-poo/obj/Debug/net10.0/ConsoleApp-poo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nicolettagheablau/RiderProjects/ConsoleApp-poo/ConsoleApp-poo/obj/Debug/net10.0/ConsoleApp-poo.AssemblyInfoInputs.cache
+/Users/nicolettagheablau/RiderProjects/ConsoleApp-poo/ConsoleApp-poo/obj/Debug/net10.0/ConsoleApp-poo.AssemblyInfo.cs
+/Users/nicolettagheablau/RiderProjects/ConsoleApp-poo/ConsoleApp-poo/obj/Debug/net10.0/ConsoleApp-poo.csproj.CoreCompileInputs.cache
+/Users/nicolettagheablau/RiderProjects/ConsoleApp-poo/ConsoleApp-poo/obj/Debug/net10.0/ConsoleApp-poo.dll
+/Users/nicolettagheablau/RiderProjects/ConsoleApp-poo/ConsoleApp-poo/obj/Debug/net10.0/refint/ConsoleApp-poo.dll
+/Users/nicolettagheablau/RiderProjects/ConsoleApp-poo/ConsoleApp-poo/obj/Debug/net10.0/ConsoleApp-poo.pdb
+/Users/nicolettagheablau/RiderProjects/ConsoleApp-poo/ConsoleApp-poo/obj/Debug/net10.0/ConsoleApp-poo.genruntimeconfig.cache
+/Users/nicolettagheablau/RiderProjects/ConsoleApp-poo/ConsoleApp-poo/obj/Debug/net10.0/ref/ConsoleApp-poo.dll
